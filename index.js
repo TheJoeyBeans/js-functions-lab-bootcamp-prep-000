@@ -19,4 +19,4 @@ function holidayCountdown (days, holiday){
   return `It's ${days} days until ${holiday}!`
 }
 
-holidayCountdown (60, 'Japan Times'); 
+holidayCountdown ('70', 'Christmas'); 
